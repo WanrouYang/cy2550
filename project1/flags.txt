@@ -3,5 +3,3 @@ CY2550_FLAG_2{vlc5r8mhrnkvprd3jcd7qari7onzkhsr}
 CY2550_FLAG_3{nfm96atyeqngez5h0x7krdxqlyc4vcbz}
 CY2550_FLAG_4{8mq0sbd6xbo5p5uy4hw9y1uinmvlvmpo}
 CY2550_FLAG_5{sh2dltq0w6nc3bw3p51xw434ls3zb4rw}
-CY2550_FLAG_6{h9cekmkhraqx8l8bfibigohc0daeolk2}
-CY2550_FLAG_7{dq4p1ogsqxobhcfozlo6zl79222wtibq}
